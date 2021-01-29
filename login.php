@@ -11,7 +11,7 @@
 <nav>
     <ul>
         <li>
-            <a href=""> john</a>
+            
             <a href=""> mussa</a>
             <a href=""> home </a>
         </li>
